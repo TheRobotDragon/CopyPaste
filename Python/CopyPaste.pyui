@@ -1,0 +1,93 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{211, 6}, {161, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "send",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "Send",
+          "uuid" : "3F97F7C0-BB77-40F0-AC40-9DFC9369C1AA",
+          "class" : "Button",
+          "background_color" : "RGBA(0.855805,0.855805,0.855805,1.000000)",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 75}, {366, 391}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "0A2A2F1A-C0A1-4878-AA00-AEE007809F07",
+          "font_size" : 17,
+          "background_color" : "RGBA(0.923221,0.923221,0.923221,1.000000)",
+          "frame" : "{{20, 20}, {200, 200}}",
+          "editable" : true,
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "textview1",
+          "flex" : "WH"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {161, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "receive",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "Receive",
+          "uuid" : "69EB4300-09EC-472D-BD14-15E9AAAD7909",
+          "class" : "Button",
+          "background_color" : "RGBA(0.854902,0.854902,0.854902,1.000000)",
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 46}, {150, 31}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "frame" : "{{114, 220}, {150, 32}}",
+          "uuid" : "60907D99-4403-48DE-B9C8-97B2711F5BBE",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Clipboard:",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {378, 472}}",
+    "class" : "View",
+    "attributes" : {
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "name" : "CopyPaste",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

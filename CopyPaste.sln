@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyPaste", "CopyPaste\CopyPaste.csproj", "{D554CEF6-79B2-4280-9D71-68CC1D7F152D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Python", "Python", "{5F1D48A4-9C68-47DD-83AF-7A8A4BB6B5DB}"
+	ProjectSection(SolutionItems) = preProject
+		Python\CopyPaste.py = Python\CopyPaste.py
+		Python\CopyPaste.pyui = Python\CopyPaste.pyui
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1327039-311F-4E7F-B2A9-C44627E1E2CE}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D554CEF6-79B2-4280-9D71-68CC1D7F152D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D554CEF6-79B2-4280-9D71-68CC1D7F152D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D554CEF6-79B2-4280-9D71-68CC1D7F152D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D554CEF6-79B2-4280-9D71-68CC1D7F152D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFC581D2-C1F0-4692-9C60-4CCA5837B89D}
+	EndGlobalSection
+EndGlobal
